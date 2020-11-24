@@ -319,7 +319,7 @@ p {
   align-items: flex-start;
   justify-content: center;
   flex-direction: column;
-  background-image: linear-gradient(60deg, darkblue 0%, darkgrey 100%);
+  background-image: linear-gradient(60deg, rgb(43, 47, 119) 0%, black 100%);
   color: white;
 }
 #projects .project-info h1 {
